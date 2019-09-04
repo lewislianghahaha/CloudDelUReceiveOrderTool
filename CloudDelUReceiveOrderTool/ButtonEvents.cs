@@ -1,5 +1,4 @@
 ﻿using System;
-using fcydata;
 using Kingdee.BOS.Core.Bill.PlugIn;
 using Kingdee.BOS.Core.DynamicForm.PlugIn.Args;
 
@@ -51,7 +50,7 @@ namespace CloudDelUReceiveOrderTool
         }
 
         /// <summary>
-        /// 删除收款退款单
+        /// 删除收款单
         /// </summary>
         /// <param name="orderno"></param>
         /// <returns></returns>
